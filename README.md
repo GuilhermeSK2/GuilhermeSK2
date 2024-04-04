@@ -8,7 +8,6 @@
 
 - 💬 Atualmente estou estudando: HTML, CSS, JavaScript, MySQL, C# e .NET
 
-- Apelido: Freitas
 
 <br><br>
 ## Contato
