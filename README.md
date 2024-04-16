@@ -101,9 +101,3 @@
 <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FGuilhermeSK2&s=40&c=37a7d7&bg=00000000&no=2&ff=digi&tb=Visits%3A+&ta=" alt="visits">
 <br>
 </div>
-
-<br>
-<br> 
-
-
-<img width=100% src="https://github.com/GuilhermeSK2/GuilhermeSK2/assets/139295562/ec6a2f31-5a27-4822-8490-305b4f2114b6"/>
