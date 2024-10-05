@@ -78,13 +78,12 @@
 
 <div align="left"> 
 
-<img align="left"  height="80" width="80" src="https://github.com/GuilhermeSK2/GuilhermeSK2/assets/139295562/56ba4557-0a96-46c0-8d1b-1cc5a78ef680">
-
-<img align="left"  height="80" width="86" src="https://github.com/GuilhermeSK2/GuilhermeSK2/assets/139295562/48d673ce-2a19-4b60-8c1c-4f861cf58fd6">
-
-<img align="left"  height="80" width="80" src="https://github.com/GuilhermeSK2/GuilhermeSK2/assets/139295562/079f7dd9-7f2a-42af-b652-05bf26ed93ef">
+<img align="left"  height="80" width="80" src="https://github.com/GuilhermeSK2/GuilhermeSK2/assets/139295562/902ceb6d-b7d5-4c63-9461-b7dc8ddcf387">
 
 <img align="left"  height="80" width="80" src="https://github.com/GuilhermeSK2/GuilhermeSK2/assets/139295562/a055d9b3-de08-4970-bfe5-b02a589a0bae">
+
+<img align="left"  height="80" width="80" src="https://github.com/GuilhermeSK2/GuilhermeSK2/assets/139295562/56ba4557-0a96-46c0-8d1b-1cc5a78ef680">
+
 
 </div>
 
