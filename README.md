@@ -80,8 +80,6 @@
 
 <img align="left"  height="80" width="80" src="https://github.com/GuilhermeSK2/GuilhermeSK2/assets/139295562/902ceb6d-b7d5-4c63-9461-b7dc8ddcf387">
 
-<img align="left"  height="80" width="80" src="https://github.com/GuilhermeSK2/GuilhermeSK2/assets/139295562/a055d9b3-de08-4970-bfe5-b02a589a0bae">
-
 
 
 </div>
