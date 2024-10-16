@@ -47,17 +47,17 @@
 ### Main skills:
 <div align="left"> 
 
-<img align="left"  height="80" width="80" src="https://github.com/GuilhermeSK2/GuilhermeSK2/assets/139295562/4eb602d6-3137-4007-9135-bae0ce34e8c7">
-  
-<img align="left" height="80" width="80" src="https://github.com/GuilhermeSK2/GuilhermeSK2/assets/139295562/8268eeeb-fd69-44fd-b6e5-ec5c653c18ea">
-
-<img align="left" height="84" width="84" src="https://github.com/GuilhermeSK2/GuilhermeSK2/assets/139295562/56ba4557-0a96-46c0-8d1b-1cc5a78ef680">
-
-<img align="left"  height="80" width="80" src="https://github.com/GuilhermeSK2/GuilhermeSK2/assets/139295562/a055d9b3-de08-4970-bfe5-b02a589a0bae">
+<img align="left"  height="80" width="80" src="https://github.com/GuilhermeSK2/GuilhermeSK2/assets/139295562/902ceb6d-b7d5-4c63-9461-b7dc8ddcf387">
 
 <img align="left"  height="80" width="80" src="https://github.com/GuilhermeSK2/GuilhermeSK2/assets/139295562/74c4262a-541a-4655-9889-d675220f01c6">
 
-<img align="left"  height="80" width="80" src="https://github.com/GuilhermeSK2/GuilhermeSK2/assets/139295562/902ceb6d-b7d5-4c63-9461-b7dc8ddcf387">
+<img align="left"  height="80" width="80" src="https://github.com/GuilhermeSK2/GuilhermeSK2/assets/139295562/a055d9b3-de08-4970-bfe5-b02a589a0bae">
+
+<img align="left" height="84" width="84" src="https://github.com/GuilhermeSK2/GuilhermeSK2/assets/139295562/56ba4557-0a96-46c0-8d1b-1cc5a78ef680">
+
+<img align="left"  height="80" width="80" src="https://github.com/GuilhermeSK2/GuilhermeSK2/assets/139295562/4eb602d6-3137-4007-9135-bae0ce34e8c7">
+  
+<img align="left" height="80" width="80" src="https://github.com/GuilhermeSK2/GuilhermeSK2/assets/139295562/8268eeeb-fd69-44fd-b6e5-ec5c653c18ea">
 
 <img align="left"  height="80" width="80" src="https://github.com/GuilhermeSK2/GuilhermeSK2/assets/139295562/9ce2f1d5-da45-4a83-9f11-171ee4546972">
 
