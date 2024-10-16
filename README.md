@@ -63,6 +63,8 @@
 
 <img align="left"  height="80" width="80" src="https://github.com/GuilhermeSK2/GuilhermeSK2/assets/139295562/079f7dd9-7f2a-42af-b652-05bf26ed93ef">
 
+<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/f5c1a318-362c-4d5a-bbb1-2375b958e995">
+
 </div>
 
 <br>
