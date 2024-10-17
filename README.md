@@ -80,11 +80,9 @@
 
 <img align="left"  height="80" width="80" src="https://github.com/GuilhermeSK2/GuilhermeSK2/assets/139295562/902ceb6d-b7d5-4c63-9461-b7dc8ddcf387">
 
-
-
-
 </div>
 
+<br>
 <br>
 <br>
 <br>
@@ -94,8 +92,6 @@
 
 <div align="center">
   
-
-
 <p align="centre"><b>Visitors Count</b></p> 
   
 <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FGuilhermeSK2&s=40&c=37a7d7&bg=00000000&no=2&ff=digi&tb=Visits%3A+&ta=" alt="visits">
