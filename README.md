@@ -17,18 +17,13 @@
 
 
 <div align="center"> 
-<a href="https://instagram.com/guilherme_sk2" target="_blank">
-<img align="center" height="84" width="84" src="https://github.com/GuilhermeSK2/GuilhermeSK2/assets/139295562/6344c7fc-31d4-4fe0-adee-4e6617df87d1">
-</a>
-
-
-<a href="mailto:cmp.1a.guilhermefsantos150@gmail.com">
-<img align="center"  height="80" width="80" src="https://github.com/GuilhermeSK2/GuilhermeSK2/assets/139295562/41549208-b1d5-48ea-966d-690231ed5857">
-</a>
-
 
 <a  href="https://www.linkedin.com/in/guilherme-freitas-9901a220b/" target=_blank>
 <img align="center"  height="80" width="80" src="https://github.com/GuilhermeSK2/GuilhermeSK2/assets/139295562/97fb436a-4759-4f19-a6ba-8fd84ac49a79">
+</a>
+
+<a href="mailto:cmp.1a.guilhermefsantos150@gmail.com">
+<img align="center"  height="80" width="80" src="https://github.com/GuilhermeSK2/GuilhermeSK2/assets/139295562/41549208-b1d5-48ea-966d-690231ed5857">
 </a>
 
 </div>
