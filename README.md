@@ -48,7 +48,7 @@
 
 <img align="left"  height="60" width="60" src="https://github.com/GuilhermeSK2/GuilhermeSK2/assets/139295562/a055d9b3-de08-4970-bfe5-b02a589a0bae">
 
-<img align="left" height="64" width="64" src="https://github.com/GuilhermeSK2/GuilhermeSK2/assets/139295562/56ba4557-0a96-46c0-8d1b-1cc5a78ef680">
+<img align="left" height="60" width="60" src="https://github.com/GuilhermeSK2/GuilhermeSK2/assets/139295562/56ba4557-0a96-46c0-8d1b-1cc5a78ef680">
 
 <img align="left"  height="60" width="60" src="https://github.com/GuilhermeSK2/GuilhermeSK2/assets/139295562/4eb602d6-3137-4007-9135-bae0ce34e8c7">
   
