@@ -12,8 +12,9 @@
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GuilhermeSK2&theme=blux&hide_border=falso&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
 
- <br>
- <br>
+<br>
+<br>
+<br>
 
 </div>
 
