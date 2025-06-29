@@ -1,4 +1,5 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3BF3F7&height=110&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=slice&height=100&color=3BF3F7&textBg=false&fontAlign=51&reversal=false&section=header&fontAlignY=62&descAlign=17"/>
+<br>
 <br>
 <br>
 <br>
@@ -9,10 +10,12 @@
 <br>
 <br>
 <br>
+<br>
+<br>
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GuilhermeSK2&theme=blux&hide_border=falso&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=GuilhermeSK2&theme=blux&hide_border=true&border_radius=10&date_format=j%2Fn%5B%2FY%5D&card_width=800&card_height=200&border=3BF3F7&background=000000&ring=3BF3F7&stroke=3BF3F7&fire=3BF3F7&currStreakNum=3BF3F7&sideNums=4FEB00&currStreakLabel=3BF3F7&sideLabels=3BF3F7&dates=3BF3F7" alt="GitHub Streak" /></a>
 
 <br>
 <br>
@@ -40,6 +43,7 @@
 ![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/GuilhermeSK2?chart=3dbar&gap=0.6&scale=2&flatten=1&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=0_0&format=svg&weeks=30&theme=blue) 
 
 </div>
+<br>
 <br>
 <h6 align="center">"Há um grande desejo em mim de sempre melhorar. Melhorar. É o que me faz feliz" - Ayrton Senna</h2>
  <br>
@@ -95,6 +99,7 @@
 <br>
 <br>
 <br>
+<br>
 
 <div align="center">
   
@@ -102,4 +107,8 @@
   
 <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FGuilhermeSK2&s=40&c=37a7d7&bg=00000000&no=2&ff=digi&tb=Visits%3A+&ta=" alt="visits">
 <br>
+<br>
+<br>
+<br>
 </div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=slice&height=100&color=3BF3F7&textBg=false&fontAlign=51&reversal=false&section=footer&fontAlignY=62&descAlign=17"/>
