@@ -101,14 +101,4 @@
 <br>
 <br>
 
-<div align="center">
-  
-<p align="centre"><b>Visitors Count</b></p> 
-  
-<img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FGuilhermeSK2&s=40&c=37a7d7&bg=00000000&no=2&ff=digi&tb=Visits%3A+&ta=" alt="visits">
-<br>
-<br>
-<br>
-<br>
-</div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=slice&height=100&color=3BF3F7&textBg=false&fontAlign=51&reversal=false&section=footer&fontAlignY=62&descAlign=17"/>
