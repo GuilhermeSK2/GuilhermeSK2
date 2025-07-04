@@ -50,6 +50,8 @@
  <br>
 
 ### Main skills:
+<br>
+
 <div align="left"> 
 
 <img align="left"  height="60" width="60" src="https://github.com/GuilhermeSK2/GuilhermeSK2/assets/139295562/902ceb6d-b7d5-4c63-9461-b7dc8ddcf387">
