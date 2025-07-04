@@ -15,7 +15,10 @@
 
 <div align="center">
   
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=GuilhermeSK2&theme=blux&hide_border=true&border_radius=10&date_format=j%2Fn%5B%2FY%5D&card_width=800&card_height=200&border=3BF3F7&background=000000&ring=3BF3F7&stroke=3BF3F7&fire=3BF3F7&currStreakNum=3BF3F7&sideNums=4FEB00&currStreakLabel=3BF3F7&sideLabels=3BF3F7&dates=3BF3F7" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><a href="https://git.io/streak-stats">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=GuilhermeSK2&theme=blux&hide_border=true&border_radius=10&date_format=j%2Fn%5B%2FY%5D&card_width=800&card_height=200&border=3BF3F7&background=000000&ring=3BF3F7&stroke=3BF3F7&fire=3BF3F7&currStreakNum=3BF3F7&sideNums=4FEB00&currStreakLabel=3BF3F7&sideLabels=3BF3F7&dates=3BF3F7&utc_offset=-3" alt="GitHub Streak" />
+</a>
+
 
 <br>
 <br>
