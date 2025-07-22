@@ -75,15 +75,18 @@
 
 <img align="left" height="60" width="60" src="https://github.com/GuilhermeSK2/GuilhermeSK2/assets/139295562/56ba4557-0a96-46c0-8d1b-1cc5a78ef680">
 
-<img align="left"  height="60" width="60" src="https://github.com/GuilhermeSK2/GuilhermeSK2/assets/139295562/4eb602d6-3137-4007-9135-bae0ce34e8c7">
+<img align="left" width="60" height="60" alt="Image" src="https://github.com/user-attachments/assets/36851a11-5288-425f-81a5-6ec21b2390be" />
+
+<img align="left" width="60" height="60" alt="Image" src="https://github.com/user-attachments/assets/f2681d04-b6ad-4744-889e-854dfc0d394a" />
   
-<img align="left" height="60" width="60" src="https://github.com/GuilhermeSK2/GuilhermeSK2/assets/139295562/8268eeeb-fd69-44fd-b6e5-ec5c653c18ea">
+<img align="left" width="60" height="60" alt="Image" src="https://github.com/user-attachments/assets/2d7f700c-edf7-4ae7-9b81-425bf5fc35ad" />
+
+<img align="left"  height="60" width="60" src="https://github.com/user-attachments/assets/f5c1a318-362c-4d5a-bbb1-2375b958e995">
 
 <img align="left"  height="60" width="60" src="https://github.com/GuilhermeSK2/GuilhermeSK2/assets/139295562/9ce2f1d5-da45-4a83-9f11-171ee4546972">
 
 <img align="left"  height="60" width="60" src="https://github.com/GuilhermeSK2/GuilhermeSK2/assets/139295562/079f7dd9-7f2a-42af-b652-05bf26ed93ef">
 
-<img align="left"  height="60" width="60" src="https://github.com/user-attachments/assets/f5c1a318-362c-4d5a-bbb1-2375b958e995">
 
 <br>
 <br>
