@@ -38,19 +38,29 @@
 </a>
 
 </div>
+
  <br>
  <br>
  <br>
-<div align="center" >
-   
-![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/GuilhermeSK2?chart=3dbar&gap=0.6&scale=2&flatten=1&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=0_0&format=svg&weeks=30&theme=green&colors=000000,3BF3F7&dark=true) 
+ <br>
+ <br>
+
+
+<div align="center"> 
+
+
+<h6 align="center">"Há um grande desejo em mim de sempre melhorar. Melhorar. É o que me faz feliz" - Ayrton Senna</h2>
+
+<br>
+
+![Image](https://github.com/user-attachments/assets/90db41cd-9099-4a77-95d7-1dfc07ffd6d6)
 
 </div>
+
 <br>
 <br>
-<h6 align="center">"Há um grande desejo em mim de sempre melhorar. Melhorar. É o que me faz feliz" - Ayrton Senna</h2>
- <br>
- <br>
+<br>
+<br>
 
 ### Main skills:
 <br>
