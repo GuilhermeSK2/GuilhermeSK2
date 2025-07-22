@@ -103,7 +103,12 @@
 
 <div align="left"> 
 
-<img align="left"  height="80" width="80" src="https://github.com/GuilhermeSK2/GuilhermeSK2/assets/139295562/902ceb6d-b7d5-4c63-9461-b7dc8ddcf387">
+<img align="left"  height="80" width="80" src="https://github.com/GuilhermeSK2/GuilhermeSK2/assets/139295562/74c4262a-541a-4655-9889-d675220f01c6">
+
+<img align="left" width="80" height="80" alt="Image" src="https://github.com/user-attachments/assets/5997c7df-8cd3-413b-b555-694a125cb9b6" />
+
+<img align="left" height="80" width="80" alt="Image" src="https://github.com/user-attachments/assets/90db6f21-8f0d-44ee-8910-502e948e0017" />
+
 
 </div>
 
