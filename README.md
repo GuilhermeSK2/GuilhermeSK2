@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=slice&height=100&color=4FEB00&textBg=false&fontAlign=51&reversal=false&section=header&fontAlignY=62&descAlign=17"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=slice&height=60&color=4FEB00&textBg=false&fontAlign=51&reversal=false&section=header&fontAlignY=62&descAlign=17"/>
 <br>
 <br>
 <br>
@@ -118,4 +118,4 @@
 <br>
 <br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=slice&height=100&color=4FEB00&textBg=false&fontAlign=51&reversal=false&section=footer&fontAlignY=62&descAlign=17"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=slice&height=60&color=4FEB00&textBg=false&fontAlign=51&reversal=false&section=footer&fontAlignY=62&descAlign=17"/>
