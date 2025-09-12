@@ -1,10 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=slice&height=100&color=3BF3F7&textBg=false&fontAlign=51&reversal=false&section=header&fontAlignY=62&descAlign=17"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=slice&height=100&color=4FEB00&textBg=false&fontAlign=51&reversal=false&section=header&fontAlignY=62&descAlign=17"/>
 <br>
 <br>
 <br>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3BF3F7&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Guilherme+Freitas;I'm+20+years+old;I+am+from+São+Paulo,+SP;I+study+analysis+and+systems+development+at+UNINTER;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4FEB00&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Guilherme+Freitas;I'm+20+years+old;I+am+from+São+Paulo,+SP;I+study+analysis+and+systems+development+at+UNINTER;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <br>
 <br>
@@ -16,7 +16,7 @@
 <div align="center">
   
 <a href="https://git.io/streak-stats"><a href="https://git.io/streak-stats">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=GuilhermeSK2&theme=blux&hide_border=true&border_radius=10&date_format=j%2Fn%5B%2FY%5D&card_width=800&card_height=200&border=3BF3F7&background=000000&ring=3BF3F7&stroke=3BF3F7&fire=3BF3F7&currStreakNum=3BF3F7&sideNums=4FEB00&currStreakLabel=3BF3F7&sideLabels=3BF3F7&dates=3BF3F7&utc_offset=-3" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=GuilhermeSK2&theme=blux&hide_border=true&border_radius=10&date_format=j%2Fn%5B%2FY%5D&card_width=800&card_height=200&border=4FEB00&background=000000&ring=4FEB00&stroke=4FEB00&fire=4FEB00&currStreakNum=4FEB00&sideNums=4FEB00&currStreakLabel=4FEB00&sideLabels=4FEB00&dates=4FEB00&utc_offset=-3" alt="GitHub Streak" />
 </a>
 
 
@@ -78,14 +78,10 @@
 <img align="left" width="60" height="60" alt="Image" src="https://github.com/user-attachments/assets/36851a11-5288-425f-81a5-6ec21b2390be" />
 
 <img align="left" width="60" height="60" alt="Image" src="https://github.com/user-attachments/assets/f2681d04-b6ad-4744-889e-854dfc0d394a" />
-  
-<img align="left" width="60" height="60" alt="Image" src="https://github.com/user-attachments/assets/2d7f700c-edf7-4ae7-9b81-425bf5fc35ad" />
 
 <img align="left"  height="60" width="60" src="https://github.com/user-attachments/assets/f5c1a318-362c-4d5a-bbb1-2375b958e995">
 
 <img align="left"  height="60" width="60" src="https://github.com/GuilhermeSK2/GuilhermeSK2/assets/139295562/9ce2f1d5-da45-4a83-9f11-171ee4546972">
-
-<img align="left"  height="60" width="60" src="https://github.com/GuilhermeSK2/GuilhermeSK2/assets/139295562/079f7dd9-7f2a-42af-b652-05bf26ed93ef">
 
 
 <br>
@@ -124,4 +120,4 @@
 <br>
 <br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=slice&height=100&color=3BF3F7&textBg=false&fontAlign=51&reversal=false&section=footer&fontAlignY=62&descAlign=17"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=slice&height=100&color=4FEB00&textBg=false&fontAlign=51&reversal=false&section=footer&fontAlignY=62&descAlign=17"/>
