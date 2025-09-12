@@ -53,8 +53,6 @@
 
 <br>
 
-![Image](https://github.com/user-attachments/assets/90db41cd-9099-4a77-95d7-1dfc07ffd6d6)
-
 </div>
 
 <br>
