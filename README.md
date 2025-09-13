@@ -1,10 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=slice&height=60&color=4FEB00&textBg=false&fontAlign=51&reversal=false&section=header&fontAlignY=62&descAlign=17"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=slice&height=60&color=00f361&textBg=false&fontAlign=51&reversal=false&section=header&fontAlignY=62&descAlign=17"/>
 <br>
 <br>
 <br>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4FEB00&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Guilherme+Freitas;I'm+20+years+old;I+am+from+São+Paulo,+SP;I+study+analysis+and+systems+development+at+UNINTER;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00f361&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Guilherme+Freitas;I'm+20+years+old;I+am+from+São+Paulo,+SP;I+study+analysis+and+systems+development+at+UNINTER;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <br>
 <br>
@@ -16,7 +16,7 @@
 <div align="center">
   
 <a href="https://git.io/streak-stats"><a href="https://git.io/streak-stats">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=GuilhermeSK2&theme=blux&hide_border=true&border_radius=10&date_format=j%2Fn%5B%2FY%5D&card_width=800&card_height=200&border=4FEB00&background=000000&ring=4FEB00&stroke=4FEB00&fire=4FEB00&currStreakNum=4FEB00&sideNums=4FEB00&currStreakLabel=4FEB00&sideLabels=4FEB00&dates=4FEB00&utc_offset=-3" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=GuilhermeSK2&theme=blux&hide_border=true&border_radius=10&date_format=j%2Fn%5B%2FY%5D&card_width=800&card_height=200&border=00f361&background=000000&ring=00f361&stroke=00f361&fire=00f361&currStreakNum=00f361&sideNums=00f361&currStreakLabel=00f361&sideLabels=00f361&dates=00f361&utc_offset=-3" alt="GitHub Streak" />
 </a>
 
 
@@ -118,4 +118,4 @@
 <br>
 <br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=slice&height=60&color=4FEB00&textBg=false&fontAlign=51&reversal=false&section=footer&fontAlignY=62&descAlign=17"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=slice&height=60&color=00f361&textBg=false&fontAlign=51&reversal=false&section=footer&fontAlignY=62&descAlign=17"/>
