@@ -60,31 +60,63 @@
 <br>
 <br>
 
-### Main skills:
+###
+
+<h4 align="left">Main Skills:</h4>
+
+###
 <br>
 
-<div align="left"> 
+<h3 align="center">Front-End Stacks</h3>
 
-<img align="left"  height="60" width="60" src="https://github.com/GuilhermeSK2/GuilhermeSK2/assets/139295562/902ceb6d-b7d5-4c63-9461-b7dc8ddcf387">
+###
 
-<img align="left"  height="60" width="60" src="https://github.com/GuilhermeSK2/GuilhermeSK2/assets/139295562/74c4262a-541a-4655-9889-d675220f01c6">
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="70" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="70" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="70" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="70" alt="angularjs logo"  />
+</div>
 
-<img align="left"  height="60" width="60" src="https://github.com/GuilhermeSK2/GuilhermeSK2/assets/139295562/a055d9b3-de08-4970-bfe5-b02a589a0bae">
+###
 
-<img align="left" height="60" width="60" src="https://github.com/GuilhermeSK2/GuilhermeSK2/assets/139295562/56ba4557-0a96-46c0-8d1b-1cc5a78ef680">
+<br>
 
-<img align="left" width="60" height="60" alt="Image" src="https://github.com/user-attachments/assets/36851a11-5288-425f-81a5-6ec21b2390be" />
+<h3 align="center">Back-End Stacks</h3>
 
-<img align="left" width="60" height="60" alt="Image" src="https://github.com/user-attachments/assets/f2681d04-b6ad-4744-889e-854dfc0d394a" />
+###
 
-<img align="left"  height="60" width="60" src="https://github.com/user-attachments/assets/f5c1a318-362c-4d5a-bbb1-2375b958e995">
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="70" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="70" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="70" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="70" alt="csharp logo"  />
+</div>
 
-<img align="left"  height="60" width="60" src="https://github.com/GuilhermeSK2/GuilhermeSK2/assets/139295562/9ce2f1d5-da45-4a83-9f11-171ee4546972">
+###
 
 
 <br>
-<br>
 
+<h3 align="center">Databases</h3>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" height="70" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="70" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="70" alt="microsoftsqlserver logo"  />
+</div>
+
+###
 </div>
 
 <br>
@@ -112,6 +144,11 @@
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+
+
 <br>
 <br>
 <br>
